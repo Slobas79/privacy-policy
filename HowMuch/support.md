@@ -4,7 +4,7 @@ HowMuch is an offline travel phrasebook that helps you communicate in 50+ langua
 
 ## Contact
 Need help, found a bug, or want to suggest a new phrase or language?
-Email: **slobodan.stamenic@wm.rs**
+Email: **slobodan.stamenic@gmail.com**
 
 We aim to respond within 2 business days.
 
